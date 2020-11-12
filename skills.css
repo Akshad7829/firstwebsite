@@ -1,0 +1,47 @@
+.tan{
+	font-size: 40px;
+    color:#00FF00; 
+    background-color: black;
+}
+.man{
+	font size: 30px;
+           
+        
+}
+.kk {
+            float: left;
+            width: 100%;
+           
+        }
+
+	
+.tt:hover img{
+    
+    transform: scale(1.3);
+}
+.tt:hover img{
+    
+    transform: scale(1.3);
+}
+.kk:hover img{
+    
+    transform: scale(1.3);
+}
+ img{
+    border: 5px solid #555;
+    margin-left: 110px;
+}
+ 
+    body{
+            background-color:#0D1A38;
+
+    }
+    .man{
+        color: grey;
+    }
+     .san{
+        color: grey;
+    }
+     .van{
+        color: grey;
+    }
